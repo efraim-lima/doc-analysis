@@ -1,0 +1,17 @@
+# API Framework
+Flask>=2.0.0
+Flask-RESTful>=0.3.9
+Flask-CORS>=3.0.10
+
+# Async Task Queue
+celery>=5.3.0
+redis>=4.5.0
+
+# Document reading dependencies
+python-docx>=0.8.11  # Used in reader/word.py
+openpyxl>=3.1.0     # Used in reader/excell.py
+PyPDF2>=3.0.0       # Used in reader/pdf.py
+
+# General dependencies
+requests>=2.28.0
+python-dotenv>=0.20.0 

@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_restful import Resource, Api
+import requests
 
 class Zeev(Resource):
     def __init__(self):
@@ -8,10 +9,13 @@ class Zeev(Resource):
     def get(self):
         try:
             # Make API call to Zeev pastel/void endpoint
-            response = requests.get(f"{self.base_url}/pastel/void")
+            response = requests.get("https://seu_endereco.do.zeev/api/2/instances/report", headers={},)
             if not response.ok:
                 raise Exception(f"Failed to retrieve data: {response.status_code}")
             # Implement document retrieval logic here
+            
+            data = response.json()
+            
             return jsonify({
                 "status": "Success",
                 "message": "Retrieve successful",

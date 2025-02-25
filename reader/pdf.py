@@ -18,13 +18,15 @@ class Reader:
             # Iterate through all pages
             for page in pdf.pages:
                 text = page.extract_text()
+                print(text)
                 
                 # Look for tabular data patterns
                 # This is a simple approach - looks for text separated by multiple spaces
                 # or text arranged in column-like format
                 lines = text.split('\n')
-                
+                print (lines)
                 for line in lines:
+                    print(line)
                     # Split on multiple spaces to detect table-like data
                     cells = re.split(r'\s{2,}', line.strip())
                     

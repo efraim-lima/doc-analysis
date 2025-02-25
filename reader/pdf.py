@@ -4,10 +4,12 @@ import re
 class Reader:
     def __init__(self, file):
         self.file = file
-        pass
     
     def read(self):
         try:
+            # Add type checking for the file parameter
+            if not isinstance(self.file, (str, bytes)):
+                raise ValueError("File parameter must be a string path or bytes object")
 
             # Load the PDF file
             pdf = PdfReader(self.file)
@@ -42,4 +44,6 @@ class Reader:
         except Exception as e:
             return {"error": f"Failed to read PDF document: {str(e)}"}
 
-read("C:\Users\EfraimdeAlmeidaLima\OneDrive - Under Protection\Documentos\ATAS\ATA - CLIENTE - MOTIVO - D.A.TA.docx")
+reader = Reader("C:\\Users\\EfraimdeAlmeidaLima\\OneDrive - Under Protection\\Documentos\\ATAS\\ATA - CLIENTE - MOTIVO - DATA.pdf")
+result = reader.read()
+print(result)

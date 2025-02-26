@@ -12,6 +12,11 @@ services:
       - FLASK_ENV=development
       - BROKER_URL=redis://redis:6379/0
       - RESULT_BACKEND=redis://redis:6379/0
+      - MS_API_KEY=
+      - MS_CLIENT_ID=
+      - MS_CLIENT_SECRET=
+      - MS_TENANT_ID=
+      - ZEEV_KEY=
     depends_on:
       - redis
       - celery-worker

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3219" dy="2529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
         <mxCell id="4" value="PDF" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="-45" y="210" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nzy61xiK_Wry65fHq-do-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;startArrow=classic;startFill=1;" edge="1" parent="1" source="5" target="7">
+        <mxCell id="Nzy61xiK_Wry65fHq-do-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;startArrow=classic;startFill=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" edge="1" parent="1" source="5" target="7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5" value="SahrePoint Centralizado" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="579.9999999999999" y="545" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nzy61xiK_Wry65fHq-do-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC00;strokeWidth=4;" edge="1" parent="1" source="7" target="10">
+        <mxCell id="Nzy61xiK_Wry65fHq-do-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;gradientColor=#97d077;" edge="1" parent="1" source="7" target="10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nzy61xiK_Wry65fHq-do-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="7" target="Nzy61xiK_Wry65fHq-do-87">
@@ -72,7 +72,7 @@
             <mxPoint x="230.0000000000001" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#00CC00;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.006;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="10" edge="1">
+        <mxCell id="87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#82b366;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.006;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" source="10" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1087" y="805" as="sourcePoint" />
             <mxPoint x="440" y="40" as="targetPoint" />

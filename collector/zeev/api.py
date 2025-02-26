@@ -1,15 +1,21 @@
 from flask import Flask, request, jsonify
 from flask_restful import Resource, Api
 import requests
+import os
 
 class Zeev(Resource):
     def __init__(self):
         self.base_url = "https://api.zeev.com" #Este ponto preciso alterar assim que tievr acesso à API
+        self.zeev_key = os.getenv('ZEEV_KEY')
     
     def get(self):
         try:
             # Make API call to Zeev pastel/void endpoint
-            response = requests.get("https://seu_endereco.do.zeev/api/2/instances/report", headers={},)
+            response = requests.get(
+                f'{self.base_url}/2/assignments/user/{username}', 
+                headers={self.zeev_key}
+            )
+            
             if not response.ok:
                 raise Exception(f"Failed to retrieve data: {response.status_code}")
             # Implement document retrieval logic here

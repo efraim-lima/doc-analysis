@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.1">
   <diagram name="Página-1" id="BCecWK-xzEb1JPFlDLCf">
-    <mxGraphModel>
+    <mxGraphModel dx="1789" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="770" height="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6a6TBE6PqKw6ZgEBG4A-1" target="x6a6TBE6PqKw6ZgEBG4A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6a6TBE6PqKw6ZgEBG4A-1" target="x6a6TBE6PqKw6ZgEBG4A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-1" value="Erros em Tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Criar&lt;br&gt;campos obrigatórios para dados essenciais&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="171" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Padronizar&lt;br&gt;abertura de tickets e treinar equipe&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="71" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Estabelecer&lt;br&gt;auditorias periódicas nos alertas&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="261" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-5" value="Erros em Tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-6" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Fazer&lt;br&gt;a contratação de pessoal para distribuir os alertas de forma mais equilibrada&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="351" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6a6TBE6PqKw6ZgEBG4A-7" target="x6a6TBE6PqKw6ZgEBG4A-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6a6TBE6PqKw6ZgEBG4A-7" target="x6a6TBE6PqKw6ZgEBG4A-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6a6TBE6PqKw6ZgEBG4A-7" target="x6a6TBE6PqKw6ZgEBG4A-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6a6TBE6PqKw6ZgEBG4A-7" target="x6a6TBE6PqKw6ZgEBG4A-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-7" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;; font-weight: bold;&quot;&gt;Gestão&lt;br/&gt;de Alertas e Escalonamento de Tickets&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="476" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="x6a6TBE6PqKw6ZgEBG4A-1" target="x6a6TBE6PqKw6ZgEBG4A-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="550" as="sourcePoint" />
+            <mxPoint x="440" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-11" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Criar&lt;br&gt;um dashboard de alertas pendentes e escalonados para garantir visibilidade em&lt;br&gt;tempo real.&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="461" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-12" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Revisão&lt;br&gt;do Processo de Passagem de Turno&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="581" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-17" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Wagner&lt;br&gt;Loch fará contato com a &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Velsis&lt;br&gt;(00/04/2025)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="671" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-21" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Padronizar&lt;br&gt;abertura de tickets e treinar equipe&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="70" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-22" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Criar&lt;br&gt;campos obrigatórios para dados essenciais&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="170" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-23" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Estabelecer&lt;br&gt;auditorias periódicas nos alertas&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="260" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-24" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Fazer&lt;br&gt;a contratação de pessoal para distribuir os alertas de forma mais equilibrada&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="350" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-25" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Criar&lt;br&gt;um dashboard de alertas pendentes e escalonados para garantir visibilidade em&lt;br&gt;tempo real.&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="460" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-26" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Revisão&lt;br&gt;do Processo de Passagem de Turno&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px;&quot;&gt;(00/04/2025)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="580" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-27" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Wagner&lt;br&gt;Loch fará contato com a &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Velsis&lt;br&gt;(00/04/2025)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="670" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-30" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;; font-weight: bold;&quot;&gt;Falha na investigação de alertas&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="800" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6a6TBE6PqKw6ZgEBG4A-31" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;;&quot;&gt;Melhorar&lt;br/&gt;processos de investigação e comunicação do SOC&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="800" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
